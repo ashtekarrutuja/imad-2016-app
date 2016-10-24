@@ -23,13 +23,13 @@ body {
     
 }
 .header{
-    background-color:transparant;
-    color:steel blue;
-    float:center;
+    background-color:grey;
+    color:steelblue;
+    float:none;
     padding:5px;
 }
 .nav{
-    line-height:30px;
+    line-height:500px;
     background-color:#48D1CC;
     color:white;
     height:350px;
@@ -41,13 +41,13 @@ body {
     background-color:steelblue;
     color:white;
     clear:both;
-    float:center;
+    float:none;
     padding:5px;
 }
 .section{
     width:350px;
     color:black;
-    float:center;
+    float:none;
     padding:10px;
 }
 
