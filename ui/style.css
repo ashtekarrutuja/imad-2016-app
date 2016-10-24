@@ -22,7 +22,28 @@ body {
     width: 50px;
     
 }
-
+.header{
+    background-color:transparant;
+    color:steel blue;
+    float:center;
+    padding:5px;
+}
+.nav{
+    line-height:30px;
+    background-color:#48D1CC;
+    color:white;
+    height:350px;
+    width:110px;
+    float:left;
+    padding:5px;
+}
+.footer{
+    background-color:steelblue;
+    color:white;
+    clear:both;
+    float:center;
+    padding:5px;
+}
 
 
 
