@@ -47,13 +47,9 @@ body {
 .section{
     width:350px;
     color:black;
-    position: relative;
-    left: 500px;
-    border: 5px solid #73AD21;
-    text-align:center;
     font-family:courier;
     padding:20px;
-    margin-top:0px;
+    
 }
 
 
