@@ -47,6 +47,7 @@ body {
 .section{
     width:350px;
     color:black;
+    float:left;
     font-family:courier;
     padding:20px;
     
