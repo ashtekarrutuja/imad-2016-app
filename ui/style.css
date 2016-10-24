@@ -41,7 +41,7 @@ body {
     background-color:steelblue;
     color:white;
     clear:both;
-    float:none;
+    float:inherit;
     padding:5px;
 }
 .section{
